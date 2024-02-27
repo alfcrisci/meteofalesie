@@ -1,0 +1,92 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+<ExtendedData>
+  <Data name="elev"><value>37</value></Data>
+  <Data name="denominazione"><value>FALESIA DI VECCHIANO</value></Data>
+  <Data name="luogo"><value>Vecchiano</value></Data>
+  <Data name="provincia"><value>PI</value></Data></ExtendedData>
+  <Point><coordinates>10.4011111111111,43.7844444444444</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="elev"><value>92</value></Data>
+  <Data name="denominazione"><value>FALESIA DI MONSUMMANO</value></Data>
+  <Data name="luogo"><value>Monsummano</value></Data>
+  <Data name="provincia"><value>PT</value></Data></ExtendedData>
+  <Point><coordinates>10.8177777777778,43.8680555555556</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="elev"><value>1039</value></Data>
+  <Data name="denominazione"><value>FALESIA DI MASSANERA</value></Data>
+  <Data name="luogo"><value>Reggello</value></Data>
+  <Data name="provincia"><value>FI</value></Data></ExtendedData>
+  <Point><coordinates>11.5511111111111,43.7</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="elev"><value>758</value></Data>
+  <Data name="denominazione"><value>FALESIA DI SAN ROCCHINO</value></Data>
+  <Data name="luogo"><value>Camaiore</value></Data>
+  <Data name="provincia"><value>LU</value></Data></ExtendedData>
+  <Point><coordinates>10.3011111111111,43.965</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="elev"><value>241</value></Data>
+  <Data name="denominazione"><value>FALESIA CONCHIUSORI</value></Data>
+  <Data name="luogo"><value>Greppolungo</value></Data>
+  <Data name="provincia"><value>LU</value></Data></ExtendedData>
+  <Point><coordinates>10.3011111111111,43.9569444444444</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="elev"><value>1102</value></Data>
+  <Data name="denominazione"><value>FALESIA CATARCHIONE AMIATA</value></Data>
+  <Data name="luogo"><value>Abbadia San Salvatore</value></Data>
+  <Data name="provincia"><value>SI</value></Data></ExtendedData>
+  <Point><coordinates>11.6344444444444,42.8986111111111</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="elev"><value>1186</value></Data>
+  <Data name="denominazione"><value>FALESIA HOLLYWOOD AMIATA</value></Data>
+  <Data name="luogo"><value>Abbadia San Salvatore</value></Data>
+  <Data name="provincia"><value>SI</value></Data></ExtendedData>
+  <Point><coordinates>11.6344444444444,42.8991666666667</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="elev"><value>586</value></Data>
+  <Data name="denominazione"><value>FALESIA DI CELSA</value></Data>
+  <Data name="luogo"><value>Sovicille</value></Data>
+  <Data name="provincia"><value>SI</value></Data></ExtendedData>
+  <Point><coordinates>11.1844444444444,43.3080555555556</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="elev"><value>1017</value></Data>
+  <Data name="denominazione"><value>FALESIA LE ROCCHETTE</value></Data>
+  <Data name="luogo"><value>Molazzana</value></Data>
+  <Data name="provincia"><value>LU</value></Data></ExtendedData>
+  <Point><coordinates>10.3511111111111,44.0513888888889</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="elev"><value>305</value></Data>
+  <Data name="denominazione"><value>FALESIA DI TROMBACCO</value></Data>
+  <Data name="luogo"><value>Vergemoli</value></Data>
+  <Data name="provincia"><value>LU</value></Data></ExtendedData>
+  <Point><coordinates>10.3844444444444,44.0408333333333</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="elev"><value>751</value></Data>
+  <Data name="denominazione"><value>FALESIA SASSOFORTINO</value></Data>
+  <Data name="luogo"><value>Roccastrada</value></Data>
+  <Data name="provincia"><value>GR</value></Data></ExtendedData>
+  <Point><coordinates>11.0844444444444,43.0336111111111</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="elev"><value>319</value></Data>
+  <Data name="denominazione"><value>FALESIA POGGIO AL MONTONE</value></Data>
+  <Data name="luogo"><value>Massa Marittima</value></Data>
+  <Data name="provincia"><value>GR</value></Data></ExtendedData>
+  <Point><coordinates>10.9344444444444,43.0458333333333</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="elev"><value>380</value></Data>
+  <Data name="denominazione"><value>FALESIA DI RAVI MONTE CALVO</value></Data>
+  <Data name="luogo"><value>Gavorrano</value></Data>
+  <Data name="provincia"><value>GR</value></Data></ExtendedData>
+  <Point><coordinates>10.9011111111111,42.9147222222222</coordinates></Point></Placemark></Document></kml>
